@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           github pages 个人网站搭建
+          github actions 自动构建React项目 发布到github pages上
         </p>
         <a
           className="App-link"
